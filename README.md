@@ -15,7 +15,7 @@
  
  - sudo flashrom -p linux_spi:dev=/dev/spidev0.0,spispeed=1000 -w /home/pi/Downloads/easydabv2.6144-20.06.2018_fullflash/easydabv2.6144-20.06.2018.bin
  
- ![Screenshot of a logo slide](https://raw.githubusercontent.com/fabcd14/PadTool/master/img/example_logo.jpg) 
+ ![Screenshot of a logo slide](flash1.png) 
  
  EasyDABv2 is now ready to use.
  

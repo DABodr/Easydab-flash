@@ -1,6 +1,6 @@
 # Easydab-flash
 
-*Download FLASHROM software:
+Download FLASHROM software:
  -sudo apt-get install flashrom 
  
  Follow this pins connections beetween EasyDABv2 and RPI:

@@ -5,7 +5,7 @@
  
  Follow this pins connections beetween EasyDABv2 and RPI:
  
- - ![Screenshot of a logo slide](https://raw.githubusercontent.com/fabcd14/PadTool/master/img/example_logo.jpg) 
+ - ![Screenshot of a logo slide](RPIheader.png) 
  
  Download and exact last firmware:
  - https://tipok.org.ua/downloads/hardware/DAB-TX/Spartan6-FPGA/EasyDABv2/SFN/easydabv2.6144-20.06.2018_fullflash.tar.gz

@@ -8,6 +8,8 @@ Download FLASHROM software (more infos here: https://www.flashrom.org/RaspberryP
  
  - ![Screenshot of a logo slide](RPIheader.png) 
  
+ - ![Screenshot of a logo slide](easydab.jpg)
+ 
  Download and exact last firmware: (depend of your firmware, here the last up-to-date SFN firmware.)
  - https://tipok.org.ua/downloads/hardware/DAB-TX/Spartan6-FPGA/EasyDABv2/SFN/easydabv2.6144-20.06.2018_fullflash.tar.gz
  
